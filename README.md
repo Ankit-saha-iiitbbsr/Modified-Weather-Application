@@ -8,7 +8,7 @@
 - GitHub Page Link: https://ankit-saha-iiitbbsr.github.io/Modified-Weather-Application/
 
 ### Warning
-- You need to get your own api key (in video we showed how!) and replace it in index.js file on line 1 :
+- You need to get your own api key and replace it in index.js file on line 1 :
 
 ```javascript
 const apiKey = 'YOUR_API_KEY';
@@ -16,4 +16,5 @@ const apiKey = 'YOUR_API_KEY';
 
 ### Screenshot
 Here we have project screenshot :
+
 ![screenshot1](screenshot.jpg)
