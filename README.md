@@ -1,4 +1,5 @@
 ### Modified-Weather-Application
+
 ## Weather App Ui Design and using Api with javascript
 - Use modern HTML, CSS to create a weather app ui design with some animations.
 - We'll be using CSS transitions, CSS Flexbox, float for our design, and CSS  transitions and animations for some cool animation effects.
